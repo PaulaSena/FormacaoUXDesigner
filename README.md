@@ -16,4 +16,4 @@ Programa de Desenvolvimento Figma.
 
 
 
-[Figma](http://https://www.figma.com/file/gfFv3dGpTB1XIPl7wRZrwg?embed_host=share&kind=&mode=design&node-id=0%3A1&t=ZZrP5tkHJItXFqbQ-1&type=design&viewer=1 "Figma")
+[Figma](https://www.figma.com/file/gfFv3dGpTB1XIPl7wRZrwg/Landing-Page---Wireframe-de-M%C3%A9dia-Fidelidade-01-(GitHub)?type=design&node-id=0%3A1&mode=design&t=x7ypW8fXYbJQRimn-1 "Figma")
