@@ -7,6 +7,10 @@
 
 Programa de Desenvolvimento Figma.
 
+
+Criação de um Wireframe de Média Fidelidade.
+
+Um Site para um Cantor.
  
 ![Imagen](https://github.com/PaulaSena/FormacaoUXDesigner/blob/main/LandingPage-WireframeM%C3%A9diaFidelidade02.PNG?raw=true "Imagen")
 
