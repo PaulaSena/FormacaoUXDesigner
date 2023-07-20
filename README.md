@@ -1,4 +1,4 @@
-# FormacaoUXDesigner
+![image](https://github.com/PaulaSena/FormacaoUXDesigner/assets/45314696/484c1e6d-f61d-4b36-8382-bd91f4e0dbf0)![image](https://github.com/PaulaSena/FormacaoUXDesigner/assets/45314696/add7527d-407f-4496-8169-4827d1ee946e)# FormacaoUXDesigner
 Curso de UX Designer. 
 
 ##### Fundamentos de Arquitetura de User Experience (UX)
@@ -8,7 +8,7 @@ Curso de UX Designer.
 Programa de Desenvolvimento Figma.
 
  
-![Imagen](https://raw.githubusercontent.com/PaulaSena/FormacaoUXDesigner/main/LandingPage-WireframeM%C3%A9diaFidelidade02.PNG"Imagen")
+![Imagen](https://github.com/PaulaSena/FormacaoUXDesigner/blob/main/LandingPage-WireframeM%C3%A9diaFidelidade02.PNG?raw=true "Imagen")
 
 
 
