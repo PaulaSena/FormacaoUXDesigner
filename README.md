@@ -7,7 +7,7 @@ Curso de UX Designer.
 
 Programa de Desenvolvimento Figma.
 
-
+ 
 ![Imagen](https://raw.githubusercontent.com/PaulaSena/FormacaoUXDesigner/main/LandingPage-WireframeM%C3%A9diaFidelidade02.PNG"Imagen")
 
 
