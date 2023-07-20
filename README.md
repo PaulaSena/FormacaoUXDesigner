@@ -1,5 +1,5 @@
-![image](https://github.com/PaulaSena/FormacaoUXDesigner/assets/45314696/484c1e6d-f61d-4b36-8382-bd91f4e0dbf0)![image](https://github.com/PaulaSena/FormacaoUXDesigner/assets/45314696/add7527d-407f-4496-8169-4827d1ee946e)# FormacaoUXDesigner
-Curso de UX Designer. 
+# FormacaoUXDesigner
+####Curso de UX Designer. 
 
 ##### Fundamentos de Arquitetura de User Experience (UX)
 #####  Ampliando o seu Conhecimento em UX/UI Design  
@@ -12,7 +12,7 @@ Programa de Desenvolvimento Figma.
 
 
 
-![Gif](https://raw.githubusercontent.com/PaulaSena/FormacaoUXDesigner/main/Apresenta%C3%A7%C3%A3oWireframeGIFF.gif"Imagen") 
+![Gif](https://github.com/PaulaSena/FormacaoUXDesigner/blob/main/Apresenta%C3%A7%C3%A3oWireframeGIFF.gif?raw=true"Imagen") 
 
 
 
