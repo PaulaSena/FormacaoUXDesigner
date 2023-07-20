@@ -12,7 +12,7 @@ Programa de Desenvolvimento Figma.
 
 
 
-![Imagen](https://raw.githubusercontent.com/PaulaSena/FormacaoUXDesigner/main/Apresenta%C3%A7%C3%A3oWireframeGIFF.gif"Imagen")
+![Imagen](https://raw.githubusercontent.com/PaulaSena/FormacaoUXDesigner/main/Apresenta%C3%A7%C3%A3oWireframeGIFF.gif"Imagen") 
 
 
 
