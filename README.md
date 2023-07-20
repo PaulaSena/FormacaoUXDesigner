@@ -1,4 +1,4 @@
-# FormacaoUXDesigner
+# Formação UX Designer
 #### Curso de UX Designer. 
 
 ##### Fundamentos de Arquitetura de User Experience (UX)
