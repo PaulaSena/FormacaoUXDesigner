@@ -1,4 +1,5 @@
 # Formação UX Designer
+<br>
 #### Curso de UX Designer. 
 
 ##### Fundamentos de Arquitetura de User Experience (UX)
@@ -6,8 +7,6 @@
 #####  Avançando com Figma e Criação de Protótipos 
 <br>
 <br>
-
-## Programa de Desenvolvimento Figma.
 
 ### Landing Page - Wireframe de Média Fidelidade
  
@@ -22,10 +21,11 @@
 <br>
 <br>
 
-### DSM (Desing Systems
+### DSM (Design Systems)
+
 ![Imagen](https://github.com/PaulaSena/FormacaoUXDesigner/blob/main/Cores.PNG?raw=true "Imagen do DSM (Desing Systems")
 
 
-[Figma DSM (Desing Systems)](https://www.figma.com/file/gfFv3dGpTB1XIPl7wRZrwg/Landing-Page---Wireframe-de-M%C3%A9dia-Fidelidade-01-(GitHub)?type=design&node-id=0%3A1&mode=design&t=x7ypW8fXYbJQRimn-1](https://www.figma.com/file/lNem4Eb3rLObbOqVyzT9tb/Landing-Page---DSM?type=design&node-id=7%3A218&mode=design&t=gjHt5QmGw0nNAOsL-1)https://www.figma.com/file/lNem4Eb3rLObbOqVyzT9tb/Landing-Page---DSM?type=design&node-id=7%3A218&mode=design&t=gjHt5QmGw0nNAOsL-1 "Figma")
+[Figma DSM (Design Systems)](https://www.figma.com/file/gfFv3dGpTB1XIPl7wRZrwg/Landing-Page---Wireframe-de-M%C3%A9dia-Fidelidade-01-(GitHub)?type=design&node-id=0%3A1&mode=design&t=x7ypW8fXYbJQRimn-1](https://www.figma.com/file/lNem4Eb3rLObbOqVyzT9tb/Landing-Page---DSM?type=design&node-id=7%3A218&mode=design&t=gjHt5QmGw0nNAOsL-1)https://www.figma.com/file/lNem4Eb3rLObbOqVyzT9tb/Landing-Page---DSM?type=design&node-id=7%3A218&mode=design&t=gjHt5QmGw0nNAOsL-1 "Figma")
 <br>
 <br>
