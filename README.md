@@ -35,3 +35,20 @@
 ![Imagen](https://github.com/PaulaSena/FormacaoUXDesigner/blob/main/Prot%C3%B3tipo.PNG?raw=true  "Imagen do Protótipo no Figma")
 
 [Figma Mobile Protótipo](https://www.figma.com/proto/KXPNXKYPqKrx7rFMvgQrNV/Landing-Page---DSM-(Copy)?type=design&node-id=443-589&t=GPUU0ZlnHdPVZYIq-1&scaling=min-zoom&page-id=443%3A365&starting-point-node-id=443%3A589&mode=design)
+
+<br><br>
+
+
+
+### Briefing 
+![doc](https://github.com/PaulaSena/FormacaoUXDesigner/blob/main/Briefing01.PNG?raw=true  "Imagen Briefing") <br>
+[doc](https://github.com/PaulaSena/FormacaoUXDesigner/raw/main/Modelo%20Briefing%2001%20Sa%C3%BAde%20.docx  "Doc") <br>
+
+### Sistema de Gerenciamento de Saúde Pessoal, para (Consultas, Exames, Prescrições, Medicamentos, Vacinas, Carteirinhas de convênios, Notas e Atalhos).
+
+
+![Imagen](https://github.com/PaulaSena/FormacaoUXDesigner/blob/main/MaisSaude.PNG?raw=true  "Imagen do Protótipo no Figma")
+<br>
+![Imagen](https://github.com/PaulaSena/FormacaoUXDesigner/blob/main/DSM.PNG?raw=true  "Imagen DSM") <br>
+
+[Figma App Mobile Protótipo](https://www.figma.com/file/OJsLx1mzXypV46QeQHv9sg/MaisSaudavel-(09%2F2023)-(Copy)?type=design&node-id=0%3A1&mode=design&t=LV0N1CqIC3NcDcsn-1)
